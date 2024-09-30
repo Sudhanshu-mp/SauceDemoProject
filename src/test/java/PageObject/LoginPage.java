@@ -25,7 +25,6 @@ public class LoginPage {
 
 	public void clickLoginButton() {
 		driver.findElement(loginButton).click();
-
 	}
 
 	public void LoginSauceDemo(String Username, String Password) {
